@@ -25,4 +25,4 @@ Este proyecto es una aplicación desarrollada en **Java** con **Spring Boot** y 
 
 A continuación se muestra el diagrama de clases del proyecto:
 
-![Diagrama de Clases](diagrama.png)
+![Diagrama de Clases](diagramaPaygoal.png)
